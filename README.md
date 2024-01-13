@@ -107,7 +107,7 @@ https://github.com/jamessung644/Pill-Good/assets/39661528/558ec574-e281-4d90-b7d
 | 성수한 | 노재현 |
 |---|---|
 | <img src="https://github.com/jamessung644/Signiture-MK1/assets/39661528/fd00379c-ddeb-459a-8376-bb3e4a03fc33" width="210" height="270"/> | <img src="노재현의 이미지 URL" width="210" height="270"/> |
-| 강원대학교 A.I융합학과 학부생<br> <br>IOS 앱 개발 <br> 아두이노 개발, 3D 프린팅 등 <br><br> **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/) | 강원대학교 컴퓨터공학과 학부생 <br><br>3D 모델링, 회로 설계, 아두이노 개발 등 <br><br> **GitHub**: [jamessung644](https://github.com/blueberry101) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/blue_de_berry/)| 
+| 강원대학교 A.I융합학과 학부생<br> <br>IOS 앱 개발 <br> 아두이노 개발, 3D 프린팅 등 <br><br> **GitHub**: [jamessung644](https://github.com/jamessung644) <br> **웹사이트**: [portfol2o.vercel.app](https://portfol2o.vercel.app) <br> **Instagram**: [hhash_suhan](https://www.instagram.com/hhash_suhan/) | 강원대학교 컴퓨터공학과 학부생 <br><br>3D 모델링, 회로 설계, 아두이노 개발 등 <br><br> **GitHub**: [blueberry101](https://github.com/blueberry101) <br> **Instagram**: [blue_de_berry](https://www.instagram.com/blue_de_berry/)| 
 
 
 
